@@ -1,0 +1,32 @@
+# Archivos objeto y binarios temporales
+*.o
+*.obj
+
+# Archivos de bibliotecas
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Ejecutables finales (sin extensión y con extensión)
+*.exe
+*.out
+build/
+bin/
+# Archivos objeto y binarios temporales
+*.o
+*.obj
+
+# Archivos de bibliotecas
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Ejecutables finales (sin extensión y con extensión)
+*.exe
+*.out
+build/
+bin/
